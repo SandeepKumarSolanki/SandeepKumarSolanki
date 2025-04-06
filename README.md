@@ -2,64 +2,27 @@
 
 Welcome to my GitHub profile! 👋
 
-## 📚 About Me
-I'm  passionate in **Software Developer** and **Full-Stack Developer** specializing in **front-end** and **back-end** technologies. I build scalable, high-performance web applications using modern technologies. Let's connect and collaborate to create something amazing! 🚀
+I'm a passionate **Software Developer** and **Full-Stack Developer** specializing in **front-end** and **back-end** technologies. I build scalable, high-performance web applications using modern technologies. Let's connect and collaborate to create something amazing! 🚀
+
+![Tech Enthusiast](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 ---
 
+## 📚 About Me
 
+- I am passionate about coding and building awesome applications.
+- Specializing in **Full-Stack Development** using modern technologies like React, Node.js, MongoDB, and more.
+
+---
 
 ## 💻 Languages and Tools:
-
-  ![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=cplusplus&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-
-- 📈 **Web Technologies**:
-  ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-%23404d59?style=flat&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
-
-- 🔧 **Tools & Platforms**:
-  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat&logo=github&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=flat&logo=heroku&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💻 My Tech Stack
-
-- **Front-End**:
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white)
-
-- **Back-End**:
-  ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-%23404d59?style=flat&logo=express&logoColor=white)
-
-- **Database**:
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
-
-- **Version Control**:
-  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat&logo=github&logoColor=white)
-
-- **Tools**:
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%23121011?style=flat&logo=github-actions&logoColor=white)
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ---
 
 ## 🛠 GitHub Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumarsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkumarsolanki" /> </p>
 
 ![Sandeep Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeepKumarSolanki&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
@@ -80,11 +43,9 @@ I'm  passionate in **Software Developer** and **Full-Stack Developer** specializ
 ## 📬 Get In Touch
 
 - 💬 **LinkedIn**: [Sandeep Kumar on LinkedIn](https://www.linkedin.com/in/sandeep-kumar-8564a4278/)
-  [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/sandeep-kumar-8564a4278/)
+
 
 - 📧 **Email**: [sandeepkusolanki@gmail.com](mailto:sandeepkusolanki@gmail.com)
-
-<!-- - 🌐 **Website/Blog**: (Optional) -->
 
 ---
 
@@ -101,3 +62,4 @@ I'm  passionate in **Software Developer** and **Full-Stack Developer** specializ
 ---
 
 Thanks for visiting my profile! 😊 Let's build something amazing together. Feel free to explore my repositories, open issues, or reach out if you'd like to collaborate on a project. 👩‍💻👨‍💻
+

@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋
 
 I'm a passionate **Software Developer** and **Full-Stack Developer** specializing in **front-end** and **back-end** technologies. I build scalable, high-performance web applications using modern technologies. Let's connect and collaborate to create something amazing! 🚀
 
-![Tech Enthusiast](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+
 
 ---
 
